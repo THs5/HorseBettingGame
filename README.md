@@ -3,6 +3,8 @@ Project Track: Artistry
 Team Name: Amazing @amazing.vive
 Team Member(s): 1
 
+### Smart Contract and Source Verified Link
+https://testnet.bttcscan.com/address/0x4f76ED0Ca19D54cb3a7ac7348aF67D4FD3b5E234
 
 ### Project Goal:
 Experience the thrill of horse racing on the BTTC blockchain network. Bet on your favorite steeds, compete against friends and global players, and win with provably fair gameplay. Practice or play real Bet race.
